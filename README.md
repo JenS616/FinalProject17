@@ -1,2 +1,2 @@
 # FinalProject17
-The player arrives at Mars through a spaceship crash. The object of the game is to find all of the spaceship parts that have scattered throughout the planet to eventually rebuild the spaceship and call for help. Additional obstacles for the character include dust storms and preventing the player's health from reaching zero.
+The player arrives on Mars from a spaceship crash and is separated from the crew, who are waiting for rescuers in an escape pod in an unknown area of the planet. The object of the game is for the player to survive alone with only the supplies from the crashed spaceship until the crew can be contacted. An additional challenge for the player is to prevent the health status from reaching zero.
