@@ -5,3 +5,5 @@ Link to Google Docs planning page: https://docs.google.com/document/d/1RTumHudIy
 
 Source(s): http://www.gma.org/surfing/sats.html
 I used this source to learn more about satellite parts.
+
+Flowchart: https://www.draw.io/#G1Sv9Fv2coQgZBBU3zXSFqZzU12mqjdNyA
